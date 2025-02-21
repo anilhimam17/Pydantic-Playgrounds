@@ -1,14 +1,11 @@
-**Order of Programs**
+**Hello There 😎**
 --
 
-## Agent Directory
-- **hellopydantic.py**: A `Hello World` program for Pydantic AI.
-- **pydanticagents.py**: A brief overview of the `Agents API` providing understanding of Pydantic Model initialisation and query with chosen LLM's.
-- **agentlimits.py**: Pydantic Model options to customise the interactions with LLM's by applying constraints.
-- **modelsettings.py**: Pydantic Model options to cutomise the model generation parameters such as temperature, max_tokens.
-- **conversations.py**: Pydantic object functions to perform single session prompts without memory and duplex conversations with context retention.
-- **typecheck.py**: Pydantic Model params to constraint the model Input and Output datatypes and assorted type checking at every step.
-- **tool_retry.py**: Pydantic Model params to approach unexpected results and exceptions when generated using the models.
-- **model_error.py**: Pydantic Model params to approach errors during generation and steps to retrieve logs.
+- This repository contains a rigorous combination of programs that explain every aspect of the `Pydantic-AI API`.
+- It delves into the documentation as provided by the makers of Pydantic-AI, here is a link to the [website](https://ai.pydantic.dev/).
+- It also contains the implementation of a couple of the example end-to-end applications provided by `Pydantic-AI` on their website.
 
-## Dependancies Directory
+
+## Order of the API
+
+### Agents

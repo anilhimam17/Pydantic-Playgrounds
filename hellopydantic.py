@@ -6,7 +6,7 @@ api_key = os.environ.get("GEMINI_API_KEY")
 
 # Instantiating an Agent
 agent = Agent(
-    model="google-gla:gemini-1.5-flash",
+    model="test",
     system_prompt="Keep it simple"
 )
 
