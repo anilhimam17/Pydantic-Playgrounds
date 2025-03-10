@@ -1,3 +1,4 @@
+from dataclasses import dataclass, field
 from pydantic_ai import Agent, RunContext
 from pydantic_ai.models.openai import OpenAIModel
 from sys import argv
